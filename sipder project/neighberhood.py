@@ -1,4 +1,7 @@
- #!/usr/bin/env python3
+#!/usr/bin/env python3
+#time: 2017/07/29 21:50
+#version: 1.0
+#_author_:Benty_Yu
 
 import urllib
 import urllib.request

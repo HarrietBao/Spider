@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#time: 2017/07/30 12:26
+#version: 1.0
+#_author_:Benty_Yu
 
 from bs4 import BeautifulSoup
 import urllib
